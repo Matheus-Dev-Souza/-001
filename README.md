@@ -1,4 +1,7 @@
 
+
+##App MObile
+Precisa intalar a pasta IOS
 <div align="center" >
   <img src="./src/assets/logo-im.png" width="70px" height="70">
 </div>
