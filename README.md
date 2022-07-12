@@ -4,7 +4,7 @@
 </div>
 
 App MObile
-
+Precisa intalar a pasta IOS
 ### Sobre
 O **iMovie** é um aplicativo mobile para os apaixonados por filmes. 
 Com ele, é possível organizar seus filmes favoritos e marcar quais você já assistiu. 
