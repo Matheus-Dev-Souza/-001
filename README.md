@@ -3,7 +3,7 @@
   <img src="./src/assets/logo-im.png" width="70px" height="70">
 </div>
 
-
+App MObile
 
 ### Sobre
 O **iMovie** é um aplicativo mobile para os apaixonados por filmes. 
@@ -40,5 +40,5 @@ No Android, para verificar o estado na conexão com a internet é necessário in
 
 
 <div align="center">
-  <small>Rodrigo Gonçalves Santana - 2020</small>
+  <small>Feito por: Matheus Gonçalves https://www.instagram.com/matheusesus/</small>
 </div>
